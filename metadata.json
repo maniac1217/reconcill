@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Commerce",
+  "description": "A premium, minimalist e-commerce platform with elegant customer and seller dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
